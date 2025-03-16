@@ -1,0 +1,183 @@
+[submodule "lib/CoreLibrary"]
+	path = lib/CoreLibrary
+	url = https://github.com/nanoframework/CoreLibrary
+[submodule "lib/System.Text"]
+	path = lib/System.Text
+	url = https://github.com/nanoframework/System.Text
+[submodule "lib/System.Math"]
+	path = lib/System.Math
+	url = https://github.com/nanoframework/System.Math
+[submodule "lib/System.Text.RegularExpressions"]
+	path = lib/System.Text.RegularExpressions
+	url = https://github.com/nanoframework/System.Text.RegularExpressions
+[submodule "lib/nanoFramework.System.Runtime"]
+	path = lib/nanoFramework.System.Runtime
+	url = https://github.com/nanoframework/nanoFramework.System.Runtime
+[submodule "lib/System.Device.Adc"]
+	path = lib/System.Device.Adc
+	url = https://github.com/nanoframework/System.Device.Adc
+[submodule "lib/nanoFramework.Runtime.Native"]
+	path = lib/nanoFramework.Runtime.Native
+	url = https://github.com/nanoframework/nanoFramework.Runtime.Native
+[submodule "lib/nanoFramework.Runtime.Events"]
+	path = lib/nanoFramework.Runtime.Events
+	url = https://github.com/nanoframework/nanoFramework.Runtime.Events
+[submodule "lib/nanoFramework.Device.OneWire"]
+	path = lib/nanoFramework.Device.OneWire
+	url = https://github.com/nanoframework/nanoFramework.Device.OneWire
+[submodule "lib/System.Device.I2c.Slave"]
+	path = lib/System.Device.I2c.Slave
+	url = https://github.com/nanoframework/System.Device.I2c.Slave
+[submodule "lib/nanoFramework.Hardware.TI"]
+	path = lib/nanoFramework.Hardware.TI
+	url = https://github.com/nanoframework/nanoFramework.Hardware.TI
+[submodule "lib/nanoFramework.TI.EasyLink"]
+	path = lib/nanoFramework.TI.EasyLink
+	url = https://github.com/nanoframework/nanoFramework.TI.EasyLink
+[submodule "lib/System.Device.I2c"]
+	path = lib/System.Device.I2c
+	url = https://github.com/nanoframework/System.Device.I2c
+[submodule "lib/nanoFramework.Hardware.GiantGecko"]
+	path = lib/nanoFramework.Hardware.GiantGecko
+	url = https://github.com/nanoframework/nanoFramework.Hardware.GiantGecko
+[submodule "lib/System.Device.Pwm"]
+	path = lib/System.Device.Pwm
+	url = https://github.com/nanoframework/System.Device.Pwm
+[submodule "lib/System.Device.Dac"]
+	path = lib/System.Device.Dac
+	url = https://github.com/nanoframework/System.Device.Dac
+[submodule "lib/nanoFramework.Networking.Sntp"]
+	path = lib/nanoFramework.Networking.Sntp
+	url = https://github.com/nanoframework/nanoFramework.Networking.Sntp
+[submodule "lib/nanoFramework.GiantGecko.Adc"]
+	path = lib/nanoFramework.GiantGecko.Adc
+	url = https://github.com/nanoframework/nanoFramework.GiantGecko.Adc
+[submodule "lib/nanoFramework.Device.Can"]
+	path = lib/nanoFramework.Device.Can
+	url = https://github.com/nanoframework/nanoFramework.Device.Can
+[submodule "lib/System.Device.Gpio"]
+	path = lib/System.Device.Gpio
+	url = https://github.com/nanoframework/System.Device.Gpio
+[submodule "lib/System.Security.Cryptography"]
+	path = lib/System.Security.Cryptography
+	url = https://github.com/nanoframework/System.Security.Cryptography
+[submodule "lib/nanoFramework.Hardware.Stm32"]
+	path = lib/nanoFramework.Hardware.Stm32
+	url = https://github.com/nanoframework/nanoFramework.Hardware.Stm32
+[submodule "lib/System.Threading"]
+	path = lib/System.Threading
+	url = https://github.com/nanoframework/System.Threading
+[submodule "lib/System.Device.Spi"]
+	path = lib/System.Device.Spi
+	url = https://github.com/nanoframework/System.Device.Spi
+[submodule "lib/nanoFramework.Graphics"]
+	path = lib/nanoFramework.Graphics
+	url = https://github.com/nanoframework/nanoFramework.Graphics
+[submodule "lib/System.Net.Sockets.TcpClient"]
+	path = lib/System.Net.Sockets.TcpClient
+	url = https://github.com/nanoframework/System.Net.Sockets.TcpClient
+[submodule "lib/System.Net.Sockets.UdpClient"]
+	path = lib/System.Net.Sockets.UdpClient
+	url = https://github.com/nanoframework/System.Net.Sockets.UdpClient
+[submodule "lib/System.Device.Wifi"]
+	path = lib/System.Device.Wifi
+	url = https://github.com/nanoframework/System.Device.Wifi
+[submodule "lib/System.Net.Http"]
+	path = lib/System.Net.Http
+	url = https://github.com/nanoframework/System.Net.Http
+[submodule "lib/System.Net"]
+	path = lib/System.Net
+	url = https://github.com/nanoframework/System.Net
+[submodule "lib/System.IO.Streams"]
+	path = lib/System.IO.Streams
+	url = https://github.com/nanoframework/System.IO.Streams
+[submodule "lib/System.Collections"]
+	path = lib/System.Collections
+	url = https://github.com/nanoframework/System.Collections
+[submodule "lib/nanoFramework.Networking.Thread"]
+	path = lib/nanoFramework.Networking.Thread
+	url = https://github.com/nanoframework/nanoFramework.Networking.Thread
+[submodule "lib/System.Net.WebSockets"]
+	path = lib/System.Net.WebSockets
+	url = https://github.com/nanoframework/System.Net.WebSockets
+[submodule "lib/System.Device.UsbClient"]
+	path = lib/System.Device.UsbClient
+	url = https://github.com/nanoframework/System.Device.UsbClient
+[submodule "lib/nanoFramework.m2mqtt"]
+	path = lib/nanoFramework.m2mqtt
+	url = https://github.com/nanoframework/nanoFramework.m2mqtt
+[submodule "lib/nanoFramework.Esp32.Camera"]
+	path = lib/nanoFramework.Esp32.Camera
+	url = https://github.com/nanoframework/nanoFramework.Esp32.Camera
+[submodule "lib/System.IO.Hashing"]
+	path = lib/System.IO.Hashing
+	url = https://github.com/nanoframework/System.IO.Hashing
+[submodule "lib/System.Device.I2s"]
+	path = lib/System.Device.I2s
+	url = https://github.com/nanoframework/System.Device.I2s
+[submodule "lib/nanoFramework.Device.Bluetooth"]
+	path = lib/nanoFramework.Device.Bluetooth
+	url = https://github.com/nanoframework/nanoFramework.Device.Bluetooth
+[submodule "lib/nanoFramework.Hardware.Esp32"]
+	path = lib/nanoFramework.Hardware.Esp32
+	url = https://github.com/nanoframework/nanoFramework.Hardware.Esp32
+[submodule "lib/nanoFramework.DependencyInjection"]
+	path = lib/nanoFramework.DependencyInjection
+	url = https://github.com/nanoframework/nanoFramework.DependencyInjection
+[submodule "lib/nanoFramework.SignalR.Client"]
+	path = lib/nanoFramework.SignalR.Client
+	url = https://github.com/nanoframework/nanoFramework.SignalR.Client
+[submodule "lib/System.IO.FileSystem"]
+	path = lib/System.IO.FileSystem
+	url = https://github.com/nanoframework/System.IO.FileSystem
+[submodule "lib/nanoFramework.Aws.IoTCore.Devices"]
+	path = lib/nanoFramework.Aws.IoTCore.Devices
+	url = https://github.com/nanoframework/nanoFramework.Aws.IoTCore.Devices
+[submodule "lib/System.Runtime.Serialization"]
+	path = lib/System.Runtime.Serialization
+	url = https://github.com/nanoframework/System.Runtime.Serialization
+[submodule "lib/nanoFramework.Azure.Devices"]
+	path = lib/nanoFramework.Azure.Devices
+	url = https://github.com/nanoframework/nanoFramework.Azure.Devices
+[submodule "lib/nanoFramework.Protobuf"]
+	path = lib/nanoFramework.Protobuf
+	url = https://github.com/nanoframework/nanoFramework.Protobuf
+[submodule "lib/nanoFramework.Logging"]
+	path = lib/nanoFramework.Logging
+	url = https://github.com/nanoframework/nanoFramework.Logging
+[submodule "lib/nanoFramework.WebServer"]
+	path = lib/nanoFramework.WebServer
+	url = https://github.com/nanoframework/nanoFramework.WebServer
+[submodule "lib/nanoFramework.Bluetooth.Hid"]
+	path = lib/nanoFramework.Bluetooth.Hid
+	url = https://github.com/nanoframework/nanoFramework.Bluetooth.Hid
+[submodule "lib/nanoFramework.IoT.Device"]
+	path = lib/nanoFramework.IoT.Device
+	url = https://github.com/nanoframework/nanoFramework.IoT.Device
+[submodule "lib/nanoFramework.M5Stack"]
+	path = lib/nanoFramework.M5Stack
+	url = https://github.com/nanoframework/nanoFramework.M5Stack
+[submodule "lib/nanoFramework.Json"]
+	path = lib/nanoFramework.Json
+	url = https://github.com/nanoframework/nanoFramework.Json
+[submodule "lib/System.IO.Ports"]
+	path = lib/System.IO.Ports
+	url = https://github.com/nanoframework/System.IO.Ports
+[submodule "lib/nanoFramework.MagicBit"]
+	path = lib/nanoFramework.MagicBit
+	url = https://github.com/nanoframework/nanoFramework.MagicBit
+[submodule "lib/nanoFramework.Hardware.Esp32.Rmt"]
+	path = lib/nanoFramework.Hardware.Esp32.Rmt
+	url = https://github.com/nanoframework/nanoFramework.Hardware.Esp32.Rmt
+[submodule "lib/nanoFramework.Hosting"]
+	path = lib/nanoFramework.Hosting
+	url = https://github.com/nanoframework/nanoFramework.Hosting
+[submodule "lib/nanoFramework.ResourceManager"]
+	path = lib/nanoFramework.ResourceManager
+	url = https://github.com/nanoframework/nanoFramework.ResourceManager
+[submodule "lib/amqpnetlite"]
+	path = lib/amqpnetlite
+	url = https://github.com/nanoframework/amqpnetlite
+[submodule "lib/nanoFramework.EspNow"]
+	path = lib/nanoFramework.EspNow
+	url = https://github.com/nanoframework/nanoFramework.EspNow
