@@ -4,7 +4,7 @@ The CoreLibrary and all its depend libraries are contained in the `lib` director
 
 
 ## lib
-This directory contains all managed (csharp) core libraries for dotNet nanoFramework.
+This directory contains all managed (csharp) core libraries for .NET nanoFramework.
 
 ### It does not contain the following project repos:
 
@@ -42,10 +42,10 @@ This directory contains all managed (csharp) core libraries for dotNet nanoFrame
 * nanodu (GitHub Action to update NuGet references of .NET nanoFramework projects.)
 
 #### Project management:
-* .github (This is the .github general template and configuration for the .NET nanoFramework GitHub organization.)
+* .github (This is the general template and configuration for the .NET nanoFramework GitHub organization.)
 * Home (The landing page for .NET nanoFramework repositories.)
-* nanoframework.github.io (repository for nanoFramework documentation web site.)
-* nFBot (Discord bot for nanoFramework Discord server.)
+* nanoframework.github.io (repository for .NET nanoFramework documentation web site.)
+* nFBot (Discord bot for .NET nanoFramework Discord server.)
 * nf-tools (Various CI management tools.)
 
 #### Not deemed necessary as part of a core update process:
