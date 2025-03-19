@@ -10,9 +10,6 @@
 [submodule "lib/System.Text.RegularExpressions"]
 	path = lib/System.Text.RegularExpressions
 	url = https://github.com/nanoframework/System.Text.RegularExpressions
-[submodule "lib/nanoFramework.System.Runtime"]
-	path = lib/nanoFramework.System.Runtime
-	url = https://github.com/nanoframework/nanoFramework.System.Runtime
 [submodule "lib/System.Device.Adc"]
 	path = lib/System.Device.Adc
 	url = https://github.com/nanoframework/System.Device.Adc

@@ -56,6 +56,7 @@ This directory contains all managed (csharp) core libraries for .NET nanoFramewo
 #### Obsolete (deprecated / archived) repositories:
 * esp32-firmware-flasher
 * Json.NetMF
+* nanoFramework.System.Runtime (will probably be archived)
 * nanoFrameworkDeployer (will probably be archived)
 * spiffs (will probably be archived)
 * Windows.Devices.Adc
