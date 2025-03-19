@@ -9,25 +9,25 @@ This directory contains all managed (csharp) core libraries for .NET nanoFramewo
 ### It does not contain the following project repos:
 
 #### SDK/Firmware related:
-* hex2dfu
-* nf-interpreter
-* nf-Community-Targets
-* nanoFirmwareFlasher
 * ChibiOS-Contrib
 * mbedtls
-* SimpleLink_CC32xx_SDK
+* nf-Community-Targets
+* nf-interpreter
 * SimpleLink_CC13xx_26xx_SDK
+* SimpleLink_CC32xx_SDK
 * STM32CubeF0
 * STM32CubeF4
 * STM32CubeF7
 * STM32CubeH7
 * STM32CubeL0
 * STM32CubeL4
-* TI_XDCTools
 * TI_SysConfig
+* TI_XDCTools
 
-#### VS Extension related:
+#### VS Extension / deployment related:
+* hex2dfu
 * metadata-processor
+* nanoFirmwareFlasher
 * nf-debugger
 * nf-Visual-Studio-extension
 * nf-VSCodeExtension
@@ -50,15 +50,14 @@ This directory contains all managed (csharp) core libraries for .NET nanoFramewo
 
 #### Not deemed necessary as part of a core update process:
 * nanoFramework.MXCHIP (repo empty)
-* nf-Community-Contributions (will probably be archived)
+* nf-Community-Contributions
 * Samples
 
 #### Obsolete (deprecated / archived) repositories:
 * esp32-firmware-flasher
 * Json.NetMF
-* nanoFramework.System.Runtime (will probably be archived)
-* nanoFrameworkDeployer (will probably be archived)
-* spiffs (will probably be archived)
+* nanoFramework.System.Runtime
+* nanoFrameworkDeployer
 * Windows.Devices.Adc
 * Windows.Devices.Gpio
 * Windows.Devices.I2c
@@ -72,3 +71,5 @@ This directory contains all managed (csharp) core libraries for .NET nanoFramewo
 ## Update submodules
 To update ALL submodules to the latest versions, use `git submodule update --remote` from the terminal.  
 To update individual submodules, change to its respective directory and perform a `git pull`.
+
+Changes for each submodule can be adjusted or reverted before they are commited.
